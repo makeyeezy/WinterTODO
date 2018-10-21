@@ -1,6 +1,6 @@
 # WinterTODO
 
-<img src="src/todo.png" width="300" height="300">
+<img src="src/todo.JPG" width="400" height="400">
 
 2018 Winter is almost here.
 Bought my flight ticket to Korea and I am visiting my country in 2 years.
