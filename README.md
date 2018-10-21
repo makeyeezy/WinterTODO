@@ -9,9 +9,11 @@ I always imagine what to do, where to visit, and of course what to eat in this w
 However, I had concern that I might forget all of my plans for Korea when I actually get there.
 So I decided to make an IOS app just for my Winter trip to Korea.
 WinterTODO saves my plan if I enter, and cross out if I accomplish my plan.
+<pre>
+ <b>Javascript based, imported React Native,
+and used EXPO to run in both simulator and my iPhone xs max.</b>
+</pre>
 
-Javascript based, imported React Native,
-and used EXPO to run in both simulator and my iPhone xs max.
 
 
 The first window of WinterTODO
